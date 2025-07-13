@@ -1,10 +1,51 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# From Curiosity to Insight
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+It all started with a question:  
+**"What if I could use data to understand how the world works — and make it better?"**
+
+Growing up in Brazil, I was always curious about patterns — whether in school grades, family budgets, or soccer stats. That curiosity became a passion as I discovered the world of data science.
+
+---
+
+## My Journey So Far
+
+After working as a Business Analyst, I moved to the U.S. to deepen my knowledge. I’m currently studying Business Analytics and developing skills in:
+
+- **Power BI & SQL** – for building dashboards that tell clear, actionable stories  
+- **Python & Pandas** – to analyze, clean, and model data  
+- **Machine Learning** – to make predictions and uncover trends  
+- **Data Visualization** – to turn numbers into insights people can understand
+
+I’ve worked on real projects that reduced reporting time, improved decision-making, and supported teams across departments.
+
+---
+
+## Why This Portfolio?
+
+This site is more than a list of projects — it's a record of how I think, learn, and solve problems.
+
+Each section reflects part of my story:  
+- The **questions** I asked  
+- The **methods** I used  
+- The **lessons** I learned  
+- The **value** I delivered  
+
+You can explore some of the tools I use and the stories behind the data in the sections to come.
+
+---
+
+## Let’s Connect
+
+If you’re curious, hiring, or just passionate about data too — let’s chat.  
+[LinkedIn →](https://www.linkedin.com/in/elivandsonribeiro/)
+
+---
+
+_📌 Want to learn more about formatting pages like this?_  
+Check out [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
