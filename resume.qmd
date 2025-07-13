@@ -1,89 +1,78 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivan Ribeiro's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ivan Ribeiro  
+Business Intelligence Analyst | Project Manager | Data Enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:elivandsonribeiro@gmail.com">elivandsonribeiro@gmail.com</a>  
+| <a href="https://www.linkedin.com/in/elivandsonribeiro/">LinkedIn Profile</a>  
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at BYU-Idaho and Assistant Project Manager at BYU-Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Analytics, BI Reporting, Project Management, Strategic Communication
 
+### Tools & Skills
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Power BI, SQL, Tableau, Excel, DAX, Trello  
+Bilingual (Portuguese/English), Strategic Planning, Decision Making
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2025 - Jul 2026`  
+__Brigham Young University - Idaho__  
+Bachelor of Science in Business Analytics (GPA: 3.8)  
+- Chief Networking Officer, Corporate Finance Society  
+- 4-Year Merit Scholarship
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+`Jan 2025 - Present`  
+__BYU-Idaho__, Rexburg, ID  
+*Assistant Project Manager*  
+- Coordinated workflows and timelines for 10+ instructional design projects  
+- Oversaw translation reviews across Business and Math courses  
+- Reviewed and edited 250+ instructional math videos for clarity and alignment
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Oct 2024 - Dec 2024`  
+__4Life Research__, Sandy, UT  
+*Business Intelligence Analyst*  
+- Designed Power BI dashboards for 15+ departments  
+- Reduced reporting time by 30% using SQL automation  
+- Improved dashboard accuracy by 25% with DAX
 
-- Fellow
+`Aug 2023 - Oct 2024`  
+__BYU-Pathway__, Salt Lake City, UT  
+*Assistant Project Manager*  
+- Managed translation/localization of 6 academic programs in 3 languages  
+- Used Tableau and Trello to coordinate 6 subcommittees
 
+`Aug 2018 - Aug 2021`  
+__4Life Research__, Sandy, UT  
+*Business Analyst*  
+- Increased affiliate qualifications by 60%  
+- Trained and motivated 100+ consultants  
+- Automated recurring reports and created Power BI dashboards
 
+## Volunteer Experience
+
+`Apr 2025 - Present`  
+__BYU-Idaho – Corporate Finance Society__  
+*Chief Networking Officer*  
+- Built partnerships with 15+ guest speakers and 10+ companies  
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+- 4-Year Merit Scholarship, BYU-Idaho
 
-Associate, *French Academy of Science*, Paris, France
+## Contact
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Email: [elivandsonribeiro@gmail.com](mailto:elivandsonribeiro@gmail.com)  
+- LinkedIn: [linkedin.com/in/elivandsonribeiro](https://www.linkedin.com/in/elivandsonribeiro)
