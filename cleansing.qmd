@@ -1,10 +1,34 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# About Me
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+Hi! I'm Ivan Ribeiro — a Business Analytics student and data enthusiast with experience in Power BI, SQL, Python, and project management. I’m passionate about transforming data into actionable insights and building predictive models that solve real-world problems.
+
+You can learn more about markdown formatting here:  
+👉 [Markdown Basics – Quarto](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+
+---
+
+## My Goals
+
+- Build interactive dashboards  
+- Improve skills in machine learning and data visualization  
+- Land a data science or analytics internship at a top-tier company  
+
+---
+
+## Skills Snapshot
+
+- **Languages & Tools**: Python, SQL, Power BI, Excel, Tableau  
+- **Areas of Interest**: Predictive modeling, Data cleaning, BI reporting  
+- **Soft Skills**: Strategic planning, team leadership, bilingual (Portuguese-English)
+
+---
+
+## Projects (Coming Soon)
+
+Stay tuned for updates as I publish my data science and analytics projects here!
