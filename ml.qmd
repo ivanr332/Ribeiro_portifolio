@@ -1,11 +1,49 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# A Journey from Curiosity to Code
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+As a kid, I was always fascinated by patterns how numbers added up, how systems worked, and how decisions were made. Years later, that same curiosity led me into the world of **data science**, where those patterns could shape real-world outcomes.
+
+Today, I’m a Business Analytics student with hands-on experience in:
+- Data visualization
+- Predictive modeling
+- SQL automation
+- Power BI dashboards
+
+---
+
+## What Drives Me
+
+I believe in the power of data to:
+- Tell stories that matter  
+- Empower better decisions  
+- Solve problems at scale  
+
+Each project I take on is not just about crunching numbers it's about discovering insights that can make a real difference.
+
+---
+
+## What You’ll Find Here
+
+In this portfolio, you'll see:
+- Projects that solve real-world problems  
+- Tools and techniques I’ve mastered (Power BI, Python, SQL, etc.)  
+- A learning journey that reflects both technical growth and personal purpose
+
+---
+
+## Let's Connect
+
+📧 [elivandsonribeiro@gmail.com](mailto:elivandsonribeiro@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/elivandsonribeiro/)
+
+---
+
+_For help writing your own pages in Quarto, visit:_  
+[Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+
 
